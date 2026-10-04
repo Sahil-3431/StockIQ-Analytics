@@ -9,7 +9,7 @@ The project analyzes historical stock market data of six major companies and pro
 ## 🚀 Live Application
 
 🔗 Streamlit App:  
-[https://StockIQ-Analytics.streamlit.app/]
+[https://stockiq-analytics.streamlit.app/]
 
 ---
 
